@@ -67,11 +67,3 @@ commercially, as long as you credit the author.
 
 https://creativecommons.org/licenses/by/4.0/
 
----
-
-## Cite as
-
-Akrit Behera (2026). *Where Does the Sun Rise? — code and data*.
-Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
-
-(The Zenodo DOI will be updated here once the paper is deposited.)
